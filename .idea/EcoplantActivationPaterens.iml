@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/output" />
       <excludeFolder url="file://$MODULE_DIR$/ts clustering/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/ts fresh/advanced/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/ts fresh/examples/.ipynb_checkpoints" />
